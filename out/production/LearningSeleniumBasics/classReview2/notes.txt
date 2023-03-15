@@ -1,0 +1,13 @@
+Web elements can be located:
+< tagname attribute="valueOfAttribute  "
+1.id(one value) unique
+2.name(one value) 99% unique
+3.class name(space means different classes)(multiple value)(dublicate)
+=================================================================
+4.linktext(inner text with tag a)
+5.Partial Linktext(inner text with tag a)
+===============================================================
+6.x-path
+7.css
+===============================================================
+8.tagName
